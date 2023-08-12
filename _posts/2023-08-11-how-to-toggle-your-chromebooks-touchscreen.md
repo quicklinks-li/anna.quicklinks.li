@@ -1,8 +1,8 @@
 ---
 title: How to toggle your chromebook's touchscreen
 date: 2023-08-11 9:26:00 -500
-categories: [chromebook, chromeos]
-tags: [touchscreen]
+layout: post
+categories: jekyll update
 ---
 
 # How to toggle your chromebook's touchscreen
