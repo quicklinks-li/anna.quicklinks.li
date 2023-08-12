@@ -49,4 +49,4 @@ to disable and reenable your touchscreen. After completing these steps, you do n
 
 ![A photo of the search key on a chromebook laptop keyboard.](/images/how-to-toggle-your-chromebooks-touchscreen/search-key.jpg)
 
-[Search key image link](bit.ly/3SoAhjU)
+[Search key image link](https://bit.ly/3SoAhjU)
