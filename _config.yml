@@ -22,7 +22,7 @@ title: Anna's Inspirational Quotes
 description: >- # this means to ignore newlines until "baseurl:"
   A website with inspirational quotes from anna.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://anna.quicklinks.li" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://quotes.quicklinks.li" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
